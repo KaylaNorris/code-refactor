@@ -74,13 +74,13 @@ section {
     color: #ffffff;
 }
 
-#float-left {
+.float-left {
     float: left;
     margin-right: 25px;
     max-height: 200px;
 }
 
-#float-right {
+.float-right {
     float: right;
     margin-left: 25px;
     max-height: 200px;
@@ -108,7 +108,7 @@ h3 {
     text-align: center;
 }
 
-#benefits {
+.benefits {
     display: block;
     margin: 10px auto;
     max-width: 150px;
