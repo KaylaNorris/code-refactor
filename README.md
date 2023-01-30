@@ -12,8 +12,9 @@ N/A
 
 The page has links in the header that will jump to the specified section on the webpage. 
 
-![Screenshot. 1](assets/images/Screenshot 2023-01-30 at 1.19.39 PM.png)
-![Screenshot. 2](assets/images/Screenshot2.png
+
+![Screenshot 1](assets/images/Screenshot1.png)
+![Screenshot 2](assets/images/Screenshot2.png)
 
 
 https://kaylanorris.github.io/mod-1-challenge/ 
