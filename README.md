@@ -17,7 +17,7 @@ The page has links in the header that will jump to the specified section on the 
 ![Screenshot 2](assets/images/Screenshot2.png)
 
 
-https://kaylanorris.github.io/mod-1-challenge/ 
+https://kaylanorris.github.io/code-refactor/ 
 
 ## License
 
